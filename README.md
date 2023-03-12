@@ -1,6 +1,6 @@
 #### We’re here to put a dent in the universe. Otherwise why else even be here? - Steve Jobs -
 
-### Senior software developer 
+### Senior Software Developer 
 📌With 10+ years of development experience, who places a high priority on customer satisfaction.<br/>
 📌Familiar with specific techniques, such as Image Processing, Sound Recognition, and Machine Learning(TensorFlow).
 
