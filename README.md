@@ -4,6 +4,9 @@
 📌With 10+ years of development experience, who places a high priority on customer satisfaction.<br/>
 📌Familiar with specific techniques, such as Image Processing, Sound Recognition, and Machine Learning(TensorFlow).
 
+contact: wolflion0812@gmail.com
+address: 0x560B014893483B115740919dd51224389D036e**
+
 ### Languages and Tools:
 <div style="display:flex;gap:2rem">
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
