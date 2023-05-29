@@ -4,7 +4,7 @@
 📌With 10+ years of development experience, who places a high priority on customer satisfaction.<br/>
 📌Familiar with specific techniques, such as Image Processing, Sound Recognition, and Machine Learning(TensorFlow).
 
-contact: wolflion0812@gmail.com
+contact: jekadev3@gmail.com
 address: 0x560B014893483B115740919dd51224389D036e**
 
 ### Languages and Tools:
