@@ -1,11 +1,9 @@
 #### We’re here to put a dent in the universe. Otherwise why else even be here? - Steve Jobs -
 
 ### Senior Software Developer 
-📌With 10+ years of development experience, who places a high priority on customer satisfaction.<br/>
-📌Familiar with specific techniques, such as Image Processing, Sound Recognition, and Machine Learning(TensorFlow).
-
-contact: jekadev3@gmail.com
-address: 0x560B014893483B115740919dd51224389D036e**
+🌈Senior Full Stack Developer with over ten years of experience planning, developing, and managing various web projects. 🎉
+🌼I'm passionate about everything related to JavaScript, especially React.js, Angular, Node.js, among others, and always keen to incorporate them in a project. 🌟
+✌I am also specialized in database design and management, knowledgeable in user interface, testing and debugging process.
 
 ### Languages and Tools:
 <div style="display:flex;gap:2rem">
