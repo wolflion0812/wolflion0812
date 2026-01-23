@@ -1,9 +1,9 @@
 #### We’re here to put a dent in the universe. Otherwise why else even be here? - Steve Jobs -
 
-### Senior Software Developer 
-🌈Senior Full Stack Developer with over ten years of experience planning, developing, and managing various web projects. 🎉
-🌼I'm passionate about everything related to JavaScript, especially React.js, Angular, Node.js, among others, and always keen to incorporate them in a project. 🌟
-✌I am also specialized in database design and management, knowledgeable in user interface, testing and debugging process.
+### Automation Engineer | Ticketing, QA, AI (Computer Vision & LLMs) 
+I am a specialized automation & systems analysis engineer with expertise in web platforms and Android applications ✦. I focus on ticketing ecosystems such as Ticketmaster, UEFA, and top football clubs ⚽. I also develop AI‑powered automation and analytics—using computer vision (OCR, object/pose/action recognition) and LLM agents—to create more resilient, explainable, and auditable processes 🤖. I help companies and engineering teams test, validate, and improve the performance, scalability, and security of their applications—ethically and with full client authorization ✅. I integrate AI models with Playwright/Selenium and mobile tooling (Frida), ensuring that outputs are reproducible and audit‑friendly 📑.
+
+I have a strong background in reverse‑engineering JavaScript and Android apps (APKs) to understand traffic behavior, improve system resilience, and support quality assurance in high‑demand environments 🔍. I design deterministic, rules‑based pipelines for vision‑first document and UI parsing to ensure there are no silent changes and that QC reports are clear 📐.
 
 ### Languages and Tools:
 <div style="display:flex;gap:2rem">
