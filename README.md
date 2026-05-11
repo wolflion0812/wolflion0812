@@ -13,7 +13,6 @@ Senior Full Stack Developer with 13 years of experience designing, developing, a
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express-original"></code>
   <code><img height="27" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php"></code>
-  <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="laravel"></code>
   <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHvINc10cU4t0qoMz2EsKIIBfZzJjNurlTQrBQ9uZHA&s" alt="codeigniter"></code>
   <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgxT2yFobYKaVzdKLef7wTbALNsUo3meNc81A5s0BH&s" alt="yii"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
