@@ -1,7 +1,7 @@
 #### We’re here to put a dent in the universe. Otherwise why else even be here? - Steve Jobs -
 
 ### Senior Full Stack Developer
-Senior Full Stack Developer with 11+ years of experience designing and delivering scalable web applications. Expert in JavaScript (React.js, Angular, Node.js) with additional back-end strengths in Python (FastAPI, Django) and C# (ASP.NET Core). Skilled in database design and management (PostgreSQL, MySQL, SQL Server, MongoDB), API development (REST/GraphQL), testing and debugging, and modern DevOps practices (Docker, CI/CD, cloud). Passionate about clean architecture, performance, and user-centric design.
+Senior Full Stack Developer with 13 years of experience designing, developing, and delivering scalable web applications. Highly skilled in JavaScript technologies including React.js, Angular, and Node.js, with strong back-end experience in Python using FastAPI and Django, PHP with Laravel and WordPress, and C# with ASP.NET Core. Experienced in database architecture and management across PostgreSQL, MySQL, SQL Server, and MongoDB, as well as REST and GraphQL API development, testing, debugging, Docker, CI/CD, and cloud-based deployment. Passionate about building clean, high-performance, user-focused software solutions.
 
 ### Languages and Tools:
 <div style="display:flex;gap:2rem">
